@@ -8,7 +8,7 @@
 > Developer!
 
 ### Longer answer
-> Software developement and deployment, testing, security analyze, homelab...
+> Software developer, DevOps, Tester, security analytic, server admin, datahoarder, HomeLaber, technology enthusiast...
 
 ## Contact and Links
 <div align="center">
