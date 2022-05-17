@@ -18,6 +18,8 @@
   <a href="https://linkedin.com/petrleocompel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.buymeacoffee.com/petrleocompel" target="_blank">
     <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <a href="https://resume.peelco.cz" target="_blank" title="My resume | made by JSONresume">
+    <img alt="My resume" src="https://img.shields.io/badge/My%20Resume-ff69b4?style=for-the-badge&logo=json&logoColor=white" />
   </a>
 </div>
 
