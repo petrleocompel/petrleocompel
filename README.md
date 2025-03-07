@@ -28,7 +28,7 @@ Outside of work I have a life. I love my homelab, ride a bike, work out in gym. 
 
 I have Humble Bundle subscription over 5 years. ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)
 
-And there goes my Steam [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/petrleocompel) and Discord ![petrleocompel#0001](https://img.shields.io/badge/petrleocompel%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+And there goes my Steam [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/petrleocompel) and Discord ![petrleocompel#0001](https://img.shields.io/badge/petrleocompel-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 ## Tech/tools/stuff around me?
